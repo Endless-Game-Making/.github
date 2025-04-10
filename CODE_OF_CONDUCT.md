@@ -1,144 +1,115 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-[Last updated 2025-04-07][history]
+[Last updated 2025-04-10][source]
 
-## Our Pledge
+## 1. Introduction
 
-We as members, contributors, and leaders pledge to make participation in our
-community a safe, harassment-free experience for everyone regardless of age, 
-body size, visible or invisible disability, ethnicity, sex characteristics, 
-gender identity and expression, level of experience, education, socio-economic 
-status, nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+We are committed to fostering an inclusive, safe, and respectful game-making community. This Code of Conduct aligns with our Safeguarding Policy and Risk Assessment to ensure a harassment-free experience and the protection of minors and vulnerable individuals.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy learning community while explicitly safeguarding 
-minors and vulnerable adults.
+## 2. Our Pledge
 
-## Our Standards
+We as members, contributors, leaders, and partners pledge to:
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+- Make participation in our community a safe, harassment-free experience for everyone regardless of age, body size, disability (visible or invisible), ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+- Act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community while explicitly safeguarding minors and vulnerable individuals
 
-Examples of unacceptable behavior include:
+## 3. Community Standards
 
-* Text, images, or links featuring nudity, sexualized language or imagery, 
-  violence, or graphically disturbing content
-* Sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Spam, self-promotion of commercial services or products, and selling or 
-  trading within community spaces
-* Recording or publishing others' private information or data such as a physical 
-  or email address, phone number, identifying photo, or voice recording
-* Other conduct which could reasonably be considered inappropriate in an
-  educational or professional setting
+### 3.1 Expected Behavior
 
-## Enforcement Responsibilities
+* Demonstrating empathy, kindness, and respect toward others
+* Being considerate of differing opinions, viewpoints, and experiences
+* Providing and accepting constructive feedback gracefully
+* Accepting accountability and learning from mistakes
+* Focusing on building a positive, safe, and collaborative environment
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+### 3.2 Unacceptable Behavior
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+* Use of sexualized language or imagery; sexual attention or advances of any kind
+* Engaging in or encouraging violence; sharing violent or graphically disturbing content
+* Trolling, insulting or derogatory comments; personal, political, or religious attacks
+* Public or private harassment of any kind
+* Spam or self-promotion of commercial services or products
+* Recording or publishing others' private information (such as real names, addresses, phone numbers, identifying photos, or voice recordings) without explicit permission
+* Engaging in any behavior that would be inappropriate in aneducational or professional setting
 
-## Scope
+## 4. Safeguarding & Protection of Minors
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official email address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+We prioritize the safety and well-being of minors and vulnerable individuals in our community.
 
-## Enforcement
+### 4.1 Communication Boundaries
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement via platform 
-reporting tools or by emailing community+conduct@endlessos.org. All reports will
-be reviewed and investigated promptly and fairly.
+- No private messaging (DMs) between learners and mentors/educators unless explicitly approved by leadership
+- All mentorship, feedback, and interactions with learners must occur in public or moderated spaces
+- No sharing of personal contact information (such as email address or phone number) or encouragement to communicate outside of moderated community spaces
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+### 4.2 Professional Conduct for Mentors & Educators
 
-## Enforcement Guidelines
+- Maintain a professional, supportive, and appropriate tone at all times
+- No off-platform mentorship, communication, or meetings unless specifically authorized
+- Mentors and educators must report any safeguarding concerns or boundary violations immediately using approved channels
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+## 5. Enforcement Responsibilities
 
-### 0. Prevention
+### 5.1 Community Moderation
 
-**Community Impact**: Any content or interaction that could pose an immediate 
-risk to the safety of the community, including harmful text or image content.
+Community leaders and moderators are responsible for clarifying and enforcing community standards, and will take corrective action when necessary.
 
-**Consequence**: Whenever possible, automated tooling or human review will help
-determine safe content and prevent or proactively redact harmful content before
-shared with the wider community.
+Moderators have the authority and responsibility to:
 
-### 1. Correction
+- Remove, edit, or reject content that violates this Code of Conduct
+- Restrict or ban individuals who violate community standards
+- Escalate safeguarding concerns immediately in accordance with the Safeguarding Policy
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+To encourage accurate reporting of incidents while avoiding retaliation, the privacy of any incident reporter must be respected and preserved to the extent possible while addressing the report.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+### 5.2 Reporting Violations
 
-### 2. Warning
+Any community member witnessing or experiencing unacceptable behavior should report it promptly while considering their own safety and well-being.
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+- Content on a third-party platform such as GitHub or Discord should be reported or flagged using that platform's reporting tools, though note that some platforms may not forward this report to community leaders
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+- Violations can be reported to community leaders by emailing community+conduct@endlessos.org
 
-### 3. Temporary Ban
+- Any in-person conduct or safety concerns should be reported to the on-site staff or volunteers
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+All safeguarding concerns involving minors will be escalated according to the Safeguarding Policy, including to external authorities if necessary.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+## 6. Enforcement Guidelines
 
-### 4. Permanent Ban
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action that violates this Code of Conduct:
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+Impact Level  | Behavior | Consequence
+------------  | -------- | -----------
+**Correction**    | Inappropriate language or unprofessional behavior | **Private warning** explaining the violation; a public apology may be requested
+Warning       | A single violation through an incident or series of actions | **Formal warning** with restrictions on interactions, including avoiding contact with those involved. Further violations may lead to suspension
+Temporary Ban | Serious violation of community standards, including sustained inappropriate behavior | **Temporary ban** from community spaces for a specified period; violating ban terms may lead to permanent removal
+Permanent Ban | Repeated severe violations, harassment, or predatory behavior | **Permanent removal** from all community platforms; external authorities notified if required
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+## 7. Scope
 
-## Attribution
+This Code of Conduct applies within all community spaces, including but not limited to:
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+- Online platforms (such as Discord servers, GitHub repositories, and Endless Studio)
+- Live events, mentorship sessions, workshops, and hackathons
+- Community-affiliated social media channels and external public representations
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+It also applies when individuals represent the community externally at conferences, in public forums, and on social media.
 
-[homepage]: https://www.contributor-covenant.org
+## 8. Acknowledgment & Compliance
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq.
+By participating in our community, **all members agree to comply** with this Code of Conduct. Violations will be handled in accordance with the our Safeguarding Policy and Risk Assessment.
+This Code of Conduct is regularly reviewed to ensure alignment with best practices in digital safety and community governance.
 
-[history]: https://github.com/Endless-Game-Making/.github/commits/main/CODE_OF_CONDUCT.md
+**For questions or concerns, contact community+conduct@endlessos.org**
+
+## 9. Attribution & License
+
+This Code of Conduct is released under the [CC BY 4.0 License]. It is heavily adapted from the [Contributor Covenant version 2.0].
+
+Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+
+[CC BY 4.0 License]: https://creativecommons.org/licenses/by/4.0/
+[Contributor Covenant version 2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+[source]: https://github.com/Endless-Game-Making/.github/commits/main/CODE_OF_CONDUCT.md
